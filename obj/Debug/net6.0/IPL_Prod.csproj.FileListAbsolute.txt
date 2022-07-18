@@ -1,0 +1,15 @@
+D:\IPL_Prod\bin\Debug\net6.0\IPL_Prod.exe
+D:\IPL_Prod\bin\Debug\net6.0\IPL_Prod.deps.json
+D:\IPL_Prod\bin\Debug\net6.0\IPL_Prod.runtimeconfig.json
+D:\IPL_Prod\bin\Debug\net6.0\IPL_Prod.dll
+D:\IPL_Prod\bin\Debug\net6.0\IPL_Prod.pdb
+D:\IPL_Prod\obj\Debug\net6.0\IPL_Prod.csproj.AssemblyReference.cache
+D:\IPL_Prod\obj\Debug\net6.0\IPL_Prod.GeneratedMSBuildEditorConfig.editorconfig
+D:\IPL_Prod\obj\Debug\net6.0\IPL_Prod.AssemblyInfoInputs.cache
+D:\IPL_Prod\obj\Debug\net6.0\IPL_Prod.AssemblyInfo.cs
+D:\IPL_Prod\obj\Debug\net6.0\IPL_Prod.csproj.CoreCompileInputs.cache
+D:\IPL_Prod\obj\Debug\net6.0\IPL_Prod.dll
+D:\IPL_Prod\obj\Debug\net6.0\refint\IPL_Prod.dll
+D:\IPL_Prod\obj\Debug\net6.0\IPL_Prod.pdb
+D:\IPL_Prod\obj\Debug\net6.0\IPL_Prod.genruntimeconfig.cache
+D:\IPL_Prod\obj\Debug\net6.0\ref\IPL_Prod.dll
